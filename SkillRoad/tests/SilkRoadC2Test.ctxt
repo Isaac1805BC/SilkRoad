@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SilkRoadC2Test
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ accordingOVshouldConstructWithValidLength()
+comment3.params=
+comment3.target=void\ accordingOVshouldPlaceStoreAtValidLocation()
+comment4.params=
+comment4.target=void\ accordingOVshouldPlaceRobotAtValidLocation()
+comment5.params=
+comment5.target=void\ accordingOVshouldRemoveStore()
+comment6.params=
+comment6.target=void\ accordingOVshouldResupplyAllStores()
+comment6.text=@Test\r\n\ \ \ \ public\ void\ accordingOVshouldMoveRobotToEmptyCell()\ {\r\n\ \ \ \ \ \ \ \ int\ initialLocation\ \=\ 2;\r\n\ \ \ \ \ \ \ \ int\ steps\ \=\ 3;\r\n\ \ \ \ \ \ \ \ silkRoad1.placeRobot(initialLocation);\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ silkRoad1.moveRobot(initialLocation,\ steps);\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ robot\ movedRobot\ \=\ silkRoad1.robots().get(0);\r\n\ \ \ \ \ \ \ \ assertEquals(initialLocation\ +\ steps,\ movedRobot.getLocation(),\ "El\ robot\ debe\ moverse\ a\ la\ nueva\ ubicaci\u00F3n.");\r\n\ \ \ \ \ \ \ \ assertEquals(0,\ movedRobot.getRecolected(),\ "La\ ganancia\ del\ robot\ debe\ ser\ 0.");\r\n\ \ \ \ }\r\n
+comment7.params=
+comment7.target=void\ accordingOVshouldRebootGame()
+comment8.params=
+comment8.target=void\ accordingOVshouldSelectBestRobotBasedOnProfit()
+numComments=9

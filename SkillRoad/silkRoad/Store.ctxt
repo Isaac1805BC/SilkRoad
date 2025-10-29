@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Store
+comment1.params=position\ tenges\ x\ y
+comment1.target=Store(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ invisible()
+comment3.params=
+comment3.target=void\ resupply()
+comment4.params=
+comment4.target=int\ getTenges()
+comment5.params=
+comment5.target=void\ robotPassed()
+comment6.params=
+comment6.target=int\ getLocation()
+comment7.params=
+comment7.target=int\ getTimesEmptied()
+comment8.params=r\ stepCost
+comment8.target=int\ collectBy(Robot,\ int)
+numComments=9

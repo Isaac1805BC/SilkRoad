@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SilkRoadContest
+comment1.params=
+comment1.target=SilkRoadContest()
+comment2.params=y
+comment2.target=java.util.List\ solve(int)
+comment3.params=slow
+comment3.target=void\ simulate(boolean)
+comment4.params=location\ steps
+comment4.target=void\ moveRobotSlow(int,\ int)
+comment5.params=location\ steps\ stepsTotal
+comment5.target=void\ m(int,\ int,\ int)
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NeverBackRobot
+comment0.text=\r\n\ Robot\ especial\ que\ nunca\ puede\ retroceder\ ni\ volver\ a\ su\ posici\u00F3n\ inicial.\r\n\ Ignora\ los\ comandos\ que\ impliquen\ movimiento\ hacia\ atr\u00E1s\ o\ retorno.\r\n
+comment1.params=position\ x\ y
+comment1.target=NeverBackRobot(int,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ shouldReturn()
+numComments=3

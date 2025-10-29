@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=x\ y\ diameter\ color
+comment1.target=Circle(int,\ int,\ int,\ java.lang.String)
+comment10.params=newX\ newY
+comment10.target=void\ changePosition(int,\ int)
+comment11.params=
+comment11.target=java.lang.String\ getColor()
+comment2.params=
+comment2.target=void\ makeVisible()
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment4.params=
+comment4.target=void\ draw()
+comment5.params=
+comment5.target=void\ erase()
+comment6.params=distance
+comment6.target=void\ moveHorizontal(int)
+comment7.params=distance
+comment7.target=void\ moveVertical(int)
+comment8.params=newDiameter
+comment8.target=void\ changeSize(int)
+comment9.params=newColor
+comment9.target=void\ changeColor(java.lang.String)
+numComments=12

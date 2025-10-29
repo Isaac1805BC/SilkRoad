@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Fighter
+comment0.text=\r\n\ Representa\ una\ tienda\ tipo\ Fighter,\ que\ solo\ entrega\ su\ dinero\r\n\ a\ robots\ que\ tengan\ m\u00E1s\ tenges\ acumulados\ que\ ella.\r\n
+comment1.params=position\ tenges\ x\ y
+comment1.target=Fighter(int,\ int,\ int,\ int)
+comment2.params=r\ stepCost
+comment2.target=int\ collectBy(Robot,\ int)
+numComments=3

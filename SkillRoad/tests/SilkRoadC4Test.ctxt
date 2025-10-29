@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SilkRoadC4Test
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ autonomousShouldChooseItsOwnPosition()
+comment3.params=
+comment3.target=void\ neverBackRobotShouldNotMoveBackwards()
+comment4.params=
+comment4.target=void\ fighterStoreShouldOnlyPayIfRobotHasMoreMoney()
+comment5.params=
+comment5.target=void\ tenderRobotShouldEarnHalf()
+comment6.params=
+comment6.target=void\ neverBackRobotShouldStayAfterReturn()
+numComments=7
